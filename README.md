@@ -21,4 +21,4 @@ RSS-Bridge
 ---
 
 - [minqlx](https://github.com/MinoMino/minqlx) + [minqlx-plugins](https://github.com/MinoMino/minqlx-plugins) - расширение возможностей сервера Quake Live, посредством добавления скриптов на Python
-- [Quake Live Local Ratings](https://github.com/quakelive-local-ratings) - сервис рейтингов игроков с внутри-игровым API
+- [Quake Live Local Ratings](https://github.com/em92/quakelive-local-ratings) - сервис рейтингов игроков с внутри-игровым API
